@@ -80,3 +80,15 @@ body {
   font-size: 0.875rem;
   font-weight: 900;
 }
+
+.card__img:hover,
+.card__category:hover,
+.card__title:hover,
+.card__profile-picture:hover,
+.card__author:hover {
+  cursor: pointer;
+}
+
+.card__title:hover {
+  color: #f4d04e;
+}
