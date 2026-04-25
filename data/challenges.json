@@ -1,0 +1,38 @@
+[
+  {
+    "id": "01-qr-code-component",
+    "title": "QR Code Component",
+    "platform": "Frontend Mentor",
+    "platformSlug": "frontendmentor",
+    "tech": ["HTML", "CSS"],
+    "status": "Completed",
+    "challengeUrl": "https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H",
+    "liveUrl": "https://rkeppler42.github.io/frontend-challenges/frontendmentor/01-qr-code-component/",
+    "codeUrl": "https://github.com/rkeppler42/frontend-challenges/tree/main/frontendmentor/01-qr-code-component",
+    "level": "Beginner",
+    "completedAt": "2026-04-24",
+    "screenshots": {
+      "desktop": "./frontendmentor/01-qr-code-component/screenshots/qr-code-component-desktop.png",
+      "mobile": "./frontendmentor/01-qr-code-component/screenshots/qr-code-component-mobile.png",
+      "preview": "./frontendmentor/01-qr-code-component/screenshots/qr-code-component-desktop.png"
+    }
+  },
+  {
+    "id": "02-blog-preview-card",
+    "title": "Blog Preview Card",
+    "platform": "Frontend Mentor",
+    "platformSlug": "frontendmentor",
+    "tech": ["HTML", "CSS"],
+    "status": "Completed",
+    "challengeUrl": "https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS",
+    "liveUrl": "https://rkeppler42.github.io/frontend-challenges/frontendmentor/02-blog-preview-card/",
+    "codeUrl": "https://github.com/rkeppler42/frontend-challenges/tree/main/frontendmentor/02-blog-preview-card",
+    "level": "Beginner",
+    "completedAt": "2026-04-25",
+    "screenshots": {
+      "desktop": "./frontendmentor/02-blog-preview-card/screenshots/blog-preview-card-desktop.png",
+      "mobile": "./frontendmentor/02-blog-preview-card/screenshots/blog-preview-card-mobile.png",
+      "preview": "./frontendmentor/02-blog-preview-card/screenshots/blog-preview-card-desktop.png"
+    }
+  }
+]
