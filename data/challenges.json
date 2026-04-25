@@ -34,5 +34,23 @@
       "mobile": "./frontendmentor/02-blog-preview-card/screenshots/blog-preview-card-mobile.png",
       "preview": "./frontendmentor/02-blog-preview-card/screenshots/blog-preview-card-desktop.png"
     }
+  },
+  {
+    "id": "03-social-links-profile",
+    "title": "Social Links Profile",
+    "platform": "Frontend Mentor",
+    "platformSlug": "frontendmentor",
+    "tech": ["HTML", "CSS"],
+    "status": "Completed",
+    "challengeUrl": "https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ",
+    "liveUrl": "https://rkeppler42.github.io/frontend-challenges/frontendmentor/03-social-links-profile/",
+    "codeUrl": "https://github.com/rkeppler42/frontend-challenges/tree/main/frontendmentor/03-social-links-profile",
+    "level": "Beginner",
+    "completedAt": "2026-04-25",
+    "screenshots": {
+      "desktop": "./frontendmentor/03-social-links-profile/screenshots/social-links-profile-desktop.png",
+      "mobile": "./frontendmentor/03-social-links-profile/screenshots/social-links-profile-mobile.png",
+      "preview": "./frontendmentor/03-social-links-profile/screenshots/social-links-profile-desktop.png"
+    }
   }
 ]
