@@ -62,9 +62,9 @@
     "status": "Completed",
     "challengeUrl": "https://www.theodinproject.com/lessons/foundations-recipes",
     "liveUrl": "https://rkeppler42.github.io/frontend-challenges/theodinproject/01-recipes/",
-    "codeUrl": "https://github.com/rkeppler42/frontend-challenges/tree/main/frontendmentor/03-social-links-profile",
+    "codeUrl": "https://github.com/rkeppler42/frontend-challenges/tree/main/theodinproject/01-recipes",
     "level": "Beginner",
-    "completedAt": "2026-04-25",
+    "completedAt": "2026-04-23",
     "screenshots": {
       "desktop": "./frontendmentor/03-social-links-profile/screenshots/social-links-profile-desktop.png",
       "mobile": "./frontendmentor/03-social-links-profile/screenshots/social-links-profile-mobile.png",
