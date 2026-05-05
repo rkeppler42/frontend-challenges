@@ -1,0 +1,94 @@
+@font-face {
+  font-family: Roboto;
+  src: url(./fonts/Roboto.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card {
+  width: min(33.3125rem, 90%);
+  border-radius: 11.95px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Roboto, sans-serif;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.card__border {
+  width: 100%;
+  height: 100%;
+  box-shadow: 0 29.87px 53.76px -29.87px rgba(97, 129, 187, 0.48);
+  padding-bottom: 2rem;
+}
+
+.card__img {
+  width: 100%;
+  margin-bottom: 1.75rem;
+}
+
+.card__heading {
+  margin-left: 2rem;
+  margin-bottom: 1.34375rem;
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+.card__divider {
+  margin: 0 1.625rem 1.40625rem;
+  border: none;
+  border-bottom: 0.01rem solid #c8c8c8;
+}
+
+.card__stats {
+  display: flex;
+  justify-content: center;
+  gap: 3.5rem;
+}
+
+.card__stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.card__number {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #ff6a6a;
+}
+
+.card__label {
+  font-size: 1.125rem;
+}
+
+.card__description {
+  margin: 0 17% 2.375rem;
+  font-size: 1.125rem;
+  text-align: center;
+}
+
+.card__button {
+  width: min(22.875rem, 80%);
+  height: 4.875rem;
+  display: block;
+  margin: 0 auto;
+  border-radius: 5px;
+  border: 0px;
+  background-color: #ff6a6a;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #fff;
+}
